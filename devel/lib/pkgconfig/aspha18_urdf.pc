@@ -1,0 +1,8 @@
+prefix=/home/swapnil/rover_ws/devel
+
+Name: aspha18_urdf
+Description: Description of aspha18_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/swapnil/rover_ws/devel/lib 
+Requires: 

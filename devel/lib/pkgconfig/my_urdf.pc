@@ -1,0 +1,8 @@
+prefix=/home/swapnil/rover_ws/devel
+
+Name: my_urdf
+Description: Description of my_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/swapnil/rover_ws/devel/lib 
+Requires: 

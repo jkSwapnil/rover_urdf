@@ -1,0 +1,8 @@
+prefix=/home/swapnil/rover_ws/install
+
+Name: rover_urdf
+Description: Description of rover_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/swapnil/rover_ws/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+aspha18_urdf:rover_description
+-DCATKIN_DEVEL_PREFIX=/home/swapnil/rover_ws/devel -DCMAKE_INSTALL_PREFIX=/home/swapnil/rover_ws/install -G Unix Makefiles
